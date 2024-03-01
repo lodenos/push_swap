@@ -1,0 +1,6 @@
+.clangd
+*.a
+*.o
+*.out
+push_swap
+./obj/
